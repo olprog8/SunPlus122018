@@ -1,0 +1,139 @@
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\bin\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlus\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\bin\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusEmb\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\bin\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\bin\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SUNPLUS.pdb
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\bin\Release\SUNPLUS.exe.config
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SUNPLUS.exe
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO2\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.pdb
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe.config
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.pdb
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.exe
+\\rumowwdh0051643\c$\Documents and Settings\olesnits\My Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.pdb
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.pdb
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe.config
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.pdb
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\bin\Release\Microsoft.Office.Interop.Excel.dll
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\ResolveAssemblyReference.cache
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.Properties.Resources.resources
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.read.1.tlog
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\GenerateResource.write.1.tlog
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.exe
+\\RUMOWWNH10M5291\c$\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.frm_oprJournal.resources
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.DigitConsole.resources
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.GenerateResource.Cache
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.exe
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\bin\Release\SUNPLUS.pdb
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.DigitConsole.resources
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.frm_oprJournal.resources
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.frm_SunXMLprotocol.resources
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.Properties.Resources.resources
+C:\ol3\bkp6\Plus\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.csproj.GenerateResource.Cache
+C:\Users\olesnits\Documents\Visual Studio 2010\Projects\SunPlusADO3\SunPlus\obj\x86\Release\SunPlus.frm_SunXMLprotocol.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SUNPLUS.pdb
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\bin\Release\SUNPLUS.exe
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\bin\Release\SUNPLUS.pdb
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.DigitConsole.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.frm_oprJournal.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.frm_SunXMLprotocol.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.Properties.Resources.resources
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.csproj.GenerateResource.Cache
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.csproj.CoreCompileInputs.cache
+C:\OL2\XIPERT\arc\arc1\a07\SunPlus\obj\x86\Release\SunPlus.csprojAssemblyReference.cache
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\bin\Release\SUNPLUS.exe.config
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\bin\Release\SUNPLUS.exe
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\bin\Release\SUNPLUS.pdb
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.csproj.ResolveComReference.cache
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.DigitConsole.resources
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.frm_oprJournal.resources
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.frm_SunXMLprotocol.resources
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.MainForm.resources
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.Properties.Resources.resources
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.csproj.GenerateResource.cache
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SunPlus.csproj.CoreCompileInputs.cache
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SUNPLUS.exe
+C:\OL2\Clients\1FinUserRequest\SunPlus\SunPlus\obj\x86\Release\SUNPLUS.pdb
